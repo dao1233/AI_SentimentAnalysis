@@ -1,7 +1,7 @@
 # AI_SentimentAnalysis
 AI Semester Project: Implementation of sentiment analysis on film trailer comments
 
-SVM MODEL
+SVM MODEL (notebook\trainNotebook.ipynb)
 1. Create conda environment using environment.yml
 2. Run the first cell in the notebook trainNotebook.ipynb to install and import all nesscessary packages
 3. Run cells step by step, cell by cell to process data and train model
@@ -10,11 +10,12 @@ SVM MODEL
 Ex:
 reviews.append("this seem to be ok, not so intersting")
 
-LEXICON ANALYSIS
+LEXICON ANALYSIS (notebook\lexiconAnalysis.ipynb)
 1. Create conda environment using environment.yml
 2. Run the first cell in the notebook lexiconAnalysis.ipynb to install and import all nesscessary packages
 3. Run cells step by step, cell by cell to process data and analyze sentiment based on lexicon
 4. In the last cell, you can change the inputs to predict the sentiments of each input by using the function sentiment_vader_lexicon().
 Ex:
 reviews.append("this seem to be ok, not so intersting")
+
 
