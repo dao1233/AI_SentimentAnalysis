@@ -1,0 +1,14 @@
+name: sentiment_analysis_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.11
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - nltk
+  - pandas
+  - numpy
+  - scikit-learn
+  - joblib
