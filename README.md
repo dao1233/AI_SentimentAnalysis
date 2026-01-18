@@ -8,6 +8,7 @@ SVM MODEL
 5. In the last cell, you can change the inputs to predict the sentiments of each input by using the trained model.
 Ex:
 reviews.append("this seem to be ok, not so intersting")
+
 LEXICON ANALYSIS
 1. Create conda environment using environment.yml
 2. Run the first cell in the notebook lexiconAnalysis.ipynb to install and import all nesscessary packages
