@@ -1,6 +1,17 @@
 # AI_SentimentAnalysis
 AI Semester Project: Implementation of sentiment analysis on film trailer comments
 
+Requirements for packages:
+    - python=3.12.11
+    - jupyter
+    - jupyterlab
+    - ipykernel
+    - nltk
+    - pandas
+    - numpy
+    - scikit-learn
+    - joblib
+
 SVM MODEL (notebook\trainNotebook.ipynb)
 1. Create conda environment using environment.yml
 2. Run the first cell in the notebook trainNotebook.ipynb to install and import all nesscessary packages
